@@ -8,6 +8,10 @@ Memories should be kept in our mind, but it's not enough. They should be kept in
 - Collected data is archived into tar ball.
 - Archived data is automatically sent to remote drives. (This repo wouldn't include these code.)
 
+## Appendix Tools
+- Some of code is not for collecting/archinving data.
+- Access web services of my accounts to check whether my `private` account is accidentaly published or not. 
+
 ## Target data
 - Blog
 - Twitter
